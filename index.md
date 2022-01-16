@@ -79,6 +79,6 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ in Canada
+  content: Copyright 2022 TheNutritionQueens. All rights reserved.
 
 ---
