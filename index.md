@@ -8,15 +8,13 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Mabel
+    link_text: Start here
   - link: "#swap"
-    link_text: Swap
+    link_text: Consults
   - link: "#customize"
-    link_text: Customize
+    link_text: Resources
   - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
+    link_text: Insurance
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
