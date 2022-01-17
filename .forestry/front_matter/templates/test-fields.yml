@@ -1,4 +1,20 @@
 ---
 label: test-fields
 hide_body: true
-fields: []
+fields:
+- name: color-test
+  type: color
+  label: color-test
+  config:
+    required: false
+    color_format: Hex
+  description: this is description for a test field
+- name: test-text-1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: test-text-1
